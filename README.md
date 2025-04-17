@@ -1,35 +1,41 @@
-# public_01
 
-Личная история (Александра)
-	Как пришёл в ML?
-	Почему заинтересовался AutoML?
-	Опыт работы с AutoML и LAMA.
-	Что такое AutoML?
-	Его видение AI трансформации (опыт около 7 лет)
+https://site.financialmodelingprep.com/developer/docs/stable
 
-Плюсы и минусы AutoML
-	Основная идея и задачи AutoML.
-	Какие этапы ML он автоматизирует?
-	В каких задачах AutoML действительно помогает?
-	Нужно ли изучать классические ML-алгоритмы?
-	Может ли AutoML навредить развитию специалиста?
-	Советы новичкам в ML и AutoML
 
-История появления LAMA
-	Как появилась? Кто разработал?
-	Где используется (банки, ритейл, индустрия)?
-	Какие задачи решает, какую оптимизацию даёт?
-	Интересные возможности LAMA
+https://polygon.io/pricing
 
-Кагл аутомл в Париже,
-	про истоию соревнования,
-	как проходило
-	что удалось решить за счет автомл и что руками
+https://finnhub.io/
 
-Как изучать ML и AutoML параллельно?
-	Какие курсы и материалы помогут разобраться в основах?
-	Как лучше пробовать LAMA на практике?
-	
-Какие профиты может дать automl для банка
-	время,
-	трудозатраты
+https://alpaca.markets/
+
+https://eodhd.com/pricing
+
+https://docs.finchat.io/data-api#tag/default/GET/companies
+
+
+https://github.com/shner-elmo/TradingView-Screener
+
+https://ru.tradingview.com/chart/
+
+
+https://www.tikr.com/pricing
+
+
+https://finbox.com/NASDAQGS:AAPL/charts  the best
+
+https://www.alpha-sense.com/pricing/
+
+
+https://www.spglobal.com/market-intelligence/en/solutions/products/private-company-data
+
+https://www.gainify.io/stocks/nasdaq/nvda/investor-relations
+
+https://eodhd.com/pricing
+
+https://github.com/EodHistoricalData/python-eodhistoricaldata
+
+https://intrinio.com/
+
+https://twelvedata.com/
+
+https://www.benzinga.com/apis/data/
